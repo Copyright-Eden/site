@@ -17,10 +17,14 @@ table.timeline {border:1px solid black;
                 border-collapse:collapse;}
 th {text-align:left;
     font-size:14px;}
+th.timeline {border:1px solid black;
+                border-collapse:collapse;}
 td {padding-right:5px;}
 td.title {font-size:12px;
           text-decoration-thickness:10px;}
 td.source {font-size:12px;}
+td.timeline {border:1px solid black;
+                border-collapse:collapse;}
 td.timeline-line {border-right:1px solid black;
                   height:12px;
                   width:50px;}
